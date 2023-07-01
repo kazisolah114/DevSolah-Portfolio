@@ -1,0 +1,80 @@
+.main-header {
+    background-color: #000700;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+}
+.header {
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    padding: 15px 0;
+}
+.header .header-title{}
+
+.header .header-title h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+.header .header-title h2 span{
+    color: #20C997;
+}
+.header .menu-n-button {
+    position: relative;
+}
+.header .header-menu{}
+.menu-bar-icons{
+    display: none;
+}
+.header .header-menu ul {
+    display: flex;
+    gap: 20px;
+}
+.header .header-menu ul li{
+    list-style: none;
+}
+.header .header-menu ul li a {
+    text-decoration: none;
+    color: #fff;
+    transition: .3s ease-in-out;
+}
+.header .header-menu ul li a:hover{
+    color: #20C997;
+}
+.header .header-menu ul li a.active{
+    color: #20C997;
+}
+.header-button {
+    position: absolute;
+    right: 0;
+}
+.header-button a {
+    font-weight: bold;
+    background: transparent;
+    border: 2px solid #20C997;
+    color: #fff;
+    padding: 15px;
+    border-radius: 50px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: .4s;
+}
+.header-button a:hover{
+    background-color: #20C997;
+}
+/* .header-media{}
+.header-media ul {
+    display: flex;
+    gap: 12px;
+}
+.header-media ul li{
+    list-style: none;
+}
+.header-media ul li a {
+    color: #ebe9e9;
+    font-size: 18px;
+}
+.header-media ul li a:hover{} */

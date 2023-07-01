@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Responsive Web Design",
+      "picture": "https://s3.amazonaws.com/www-inside-design/uploads/2018/02/responsive-web-square.jpg",
+      "description": "Our responsive web design service ensures that your website looks stunning and functions flawlessly across all devices, providing an optimal user experience."
+    },
+    {
+      "id": 2,
+      "title": "Front-end Development",
+      "picture": "https://miro.medium.com/v2/resize:fit:1200/0*dl6DnA8iMAYSVt2O.png",
+      "description": "Frontend development creates the user interface of websites. We use HTML, CSS, and JavaScript to craft visually appealing, responsive, and interactive experiences."
+    },
+    {
+      "id": 3,
+      "title": "React Development",
+      "picture": "https://webideasole.com/wp-content/uploads/2022/01/React-Js-768x768.webp",
+      "description": "React development creates efficient and interactive user interfaces using reusable components. Our expertise in React ensures responsive web applications with modular architecture."
+    },
+    {
+      "id": 4,
+      "title": "MERN Stack Web Development",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMU990QMr2INBGO6SwjMlxw7w7RoFlzwB0WIAeuzry7PxSrcaItDAtlDZzSsk9ze3Kko&usqp=CAU",
+      "description": "MERN stack web development combines MongoDB, Express.js, React, and Node.js to build robust and scalable web applications. Our expertise ensures seamless data flow, real-time updates solutions."
+    },
+    {
+      "id": 5,
+      "title": "E-Commerce Website Development",
+      "picture": "https://www.technoexponent.com/blog/wp-content/uploads/2019/04/eCommerce-website-Development.jpg",
+      "description": "With our e-commerce development service, we build secure and scalable online stores that empower businesses to sell products and services effectively."
+    },
+    {
+      "id": 6,
+      "title": "Website Maintenance and Support",
+      "picture": "https://miro.medium.com/v2/resize:fit:1400/0*LaYOfHP1_bETRwUu",
+      "description": "With our website maintenance and support service, we provide regular updates, backups, and troubleshooting, ensuring your website remains secure and optimized."
+    }
+  ]

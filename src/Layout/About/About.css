@@ -1,0 +1,80 @@
+.about-section{
+    padding: 100px 0;
+    background-color: #212529;
+}
+.about-header {
+    text-align: center;
+    margin-bottom: 100px;
+    
+    color: #fff;
+}
+.about-header h2::before {
+    content: 'ABOUT ME';
+    position: absolute;
+    font-size: 100px;
+    left: 385px;
+    top: -45px;
+    color: #292D32;
+    z-index: -1;
+    font-weight: bold;
+}
+.about-header h2::after {
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 3px;
+    background-color: #20C997;
+    left: 600px;
+    top: 45px;
+}
+.about-header h2{
+    font-size: 2.25rem;
+    position: relative;
+    z-index: 1;
+}
+.about-content{}
+.about-main-content {
+    display: flex;
+    gap: 60px;
+}
+.about-main-content .about-text{
+    flex-basis: 70%;
+}
+.about-main-content .about-text h4 {
+    color: #fff;
+    font-size: 30px;
+}
+.about-main-content .about-text h4 span {
+    color: #20C997;
+}
+.about-main-content .about-text p {
+    margin-top: 20px;
+    color: #909294;
+    font-size: 1.15rem;
+    line-height: 1.75rem;
+    text-align: justify;
+}
+.about-main-content .about-info{
+    flex-basis: 30%;
+    
+}
+.about-main-content .about-info ul {
+    margin-bottom: 40px;
+}
+.about-main-content .about-info ul li {
+    list-style: none;
+    color: #cececef0;
+    font-weight: bold;
+    border-bottom: 1px solid #80808033;
+    padding: 12px 0;
+}
+.about-main-content .about-info ul li span {
+    color: #e8e8e8;
+    font-weight: 600;
+    font-size: 15px;
+}
+.download-resume {
+    padding: 15px 20px;
+    background: #20C997;
+    border-radius: 50px;
+}

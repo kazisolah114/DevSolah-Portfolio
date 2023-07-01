@@ -1,0 +1,361 @@
+{
+    "allProjects": [
+      {
+        "title": "Dragon News 24",
+        "category": "ReactJS",
+        "image": "https://i.ibb.co/4RRPsFP/dragon-news-react.png",
+        "description": "This is an amazing dynamic website built with ReactJS where visitors can read news from different of categories like national, international, sports, business and you name it. Users can dynamically sort the newsfeed and read their desired news.",
+        "tags": ["ReactJS", "Bootstrap", "NodeJS", "ExpressJS"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/dragon-news24"
+          },
+          {
+            "live_link": "https://dragon-news24.netlify.app/"
+          }
+        ]
+      },
+      {
+        "title": "Olivia Chefs",
+        "category": "ReactJS",
+        "image": "https://i.ibb.co/5xq1ms5/olivia-chef-react.png",
+        "description": "In this website the visitors can see a group of great well known chefs. Besides the chefs the visitors will be able to see their best recipes with their ingredients. Also this website is protected by Firebase, only the registered users can log in. Anyone can create a account here. This website is fully dynamic created with ReactJS. For server side we used Node and Express.",
+        "tags": ["ReactJS", "Bootstrap", "NodeJS", "ExpressJS"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/project-chef-hunter-client"
+          },
+          {
+            "server_link": "https://github.com/kazisolah114/project-chef-hunter-server"
+          },
+          {
+            "live_link": "https://oliviasol.netlify.app/"
+          }
+        ]
+      },
+      {
+        "title": "Area Calculator",
+        "category": "Javascript",
+        "image": "https://i.ibb.co/n1ZJ735/area-calc-js.png",
+        "description": "With this tool the users can easily calculate their area. It is like an geometry application. The user can just enter their values such like the base and the height and tool will calculate it.",
+        "tags": ["HTML 5", "CSS 3", "Javascript"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/JS-Area-Calculator"
+          },
+          {
+            "live_link": "https://kazisolah114.github.io/JS-Area-Calculator/"
+          }
+        ]
+      },
+      {
+        "title": "News Portal",
+        "category": "Javascript",
+        "image": "https://i.ibb.co/YPVyqhV/news-portal-js.png",
+        "description": "This is an amazing website built with HTML, CSS and Javascript where visitors can read news from different of categories like national, international, sports, business and you name it. Users can dynamically sort the newsfeed and read their desired news.",
+        "tags": ["HTML 5", "CSS 3", "Javascript"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/news-portal-js"
+          },
+          {
+            "live_link": "https://news-portal24.netlify.app/#"
+          }
+        ]
+      },
+      {
+        "title": "Holistic Family",
+        "category": "html-css",
+        "image": "https://i.ibb.co/HC3Xmg4/holistic-htmlcss.png",
+        "description": "Discover a comprehensive medical website dedicated to providing reliable health information. From expert articles to interactive tools, empower yourself with knowledge and make informed decisions for your well-being and that of your loved ones.",
+        "tags": ["HTML 5", "CSS 3"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/design-holistic-medical"
+          },
+          {
+            "live_link": "https://holisticmedical.netlify.app/"
+          }
+        ]
+      },
+      {
+        "title": "Mexant Design",
+        "category": "html-css",
+        "image": "https://i.ibb.co/592fq1z/mexant-htmlcss.png",
+        "description": "Unlock the potential of your online presence with our web development service website. From captivating designs to seamless functionality, we craft tailored solutions that drive engagement, enhance user experience, and elevate your digital success to new heights.",
+        "tags": ["HTML 5", "CSS 3", "Bootstrap"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/design-mexant"
+          },
+          {
+            "live_link": "https://kazisolah114.github.io/design-mexant/"
+          }
+        ]
+      },
+      {
+        "title": "Toy Bank",
+        "category": "Javascript",
+        "image": "https://i.ibb.co/C77D9CV/bank-js.png",
+        "description": "This app is amazing and fun. there is a nice dashboard and it has a few section like for deposite money, withdrawing money etc. A user can enter a number and click on the deposite button and it will show the total deposite balance. The user can simply do the same with withdrawing money. If they enter a number for withdrawing then it will decrease this amount from the total balance.",
+        "tags": ["HTML 5", "CSS 3", "Javascript"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/bap-er-bank"
+          },
+          {
+            "live_link": "https://bap-erbank.netlify.app/home"
+          }
+        ]
+      },
+      {
+        "title": "G3 Architect",
+        "category": "html-css",
+        "image": "https://i.ibb.co/SQFPwr8/architect-htmlcss.png",
+        "description": "Step into the world of architectural excellence on our company website. Immerse yourself in our stunning portfolio, showcasing visionary designs and impeccable craftsmanship. From residential to commercial projects, our architect group combines creativity.",
+        "tags": ["HTML 5", "CSS 3"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/design-architects"
+          },
+          {
+            "live_link": "https://kazisolah114.github.io/design-architects/"
+          }
+        ]
+      },
+      {
+        "title": "Legal Solution",
+        "category": "html-css",
+        "image": "https://i.ibb.co/cYGNVzh/legal-htmlcss.png",
+        "description": "Welcome to our law solution firm's website, where legal expertise meets client-centered solutions. Explore our range of services, tailored to protect your rights and navigate complex legal challenges with confidence and efficiency. Trust us to be your steadfast legal partner.",
+        "tags": ["HTML 5", "CSS 3", "Bootstrap"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/design-legal-solution"
+          },
+          {
+            "live_link": "https://legalsolie.netlify.app/"
+          }
+        ]
+      },
+      {
+        "title": "Jobs Hub",
+        "category": "ReactJS",
+        "image": "https://i.ibb.co/yP21zx9/jobs-hub-react.png",
+        "description": "In this website the visitors can find their desired jobs they are looking from. This website showcase jobs from different of companies and the users can click on them and see their description based on their ID. In fact, the users can select a specific job and take it to the cart to buy.",
+        "tags": ["ReactJS", "Bootstrap"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/project-jobs-hub"
+          },
+          {
+            "live_link": "https://jobs-huub.netlify.app/"
+          }
+        ]
+      }
+    ],
+    "htmlCssProjects": [
+      {
+        "title": "G3 Architect",
+        "category": "html-css",
+        "image": "https://i.ibb.co/SQFPwr8/architect-htmlcss.png",
+        "description": "Step into the world of architectural excellence on our company website. Immerse yourself in our stunning portfolio, showcasing visionary designs and impeccable craftsmanship. From residential to commercial projects, our architect group combines creativity.",
+        "tags": ["HTML 5", "CSS 3"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/design-architects"
+          },
+          {
+            "live_link": "https://kazisolah114.github.io/design-architects/"
+          }
+        ]
+      },
+      {
+        "title": "Holistic Family",
+        "category": "html-css",
+        "image": "https://i.ibb.co/HC3Xmg4/holistic-htmlcss.png",
+        "description": "Discover a comprehensive medical website dedicated to providing reliable health information. From expert articles to interactive tools, empower yourself with knowledge and make informed decisions for your well-being and that of your loved ones.",
+        "tags": ["HTML 5", "CSS 3"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/design-holistic-medical"
+          },
+          {
+            "live_link": "https://holisticmedical.netlify.app/"
+          }
+        ]
+      },
+      {
+        "title": "Mexant Design",
+        "category": "html-css",
+        "image": "https://i.ibb.co/592fq1z/mexant-htmlcss.png",
+        "description": "Unlock the potential of your online presence with our web development service website. From captivating designs to seamless functionality, we craft tailored solutions that drive engagement, enhance user experience, and elevate your digital success to new heights.",
+        "tags": ["HTML 5", "CSS 3", "Bootstrap"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/design-mexant"
+          },
+          {
+            "live_link": "https://kazisolah114.github.io/design-mexant/"
+          }
+        ]
+      },
+      {
+        "title": "Legal Solution",
+        "category": "html-css",
+        "image": "https://i.ibb.co/cYGNVzh/legal-htmlcss.png",
+        "description": "Welcome to our law solution firm's website, where legal expertise meets client-centered solutions. Explore our range of services, tailored to protect your rights and navigate complex legal challenges with confidence and efficiency. Trust us to be your steadfast legal partner.",
+        "tags": ["HTML 5", "CSS 3", "Bootstrap"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/design-legal-solution"
+          },
+          {
+            "live_link": "https://legalsolie.netlify.app/"
+          }
+        ]
+      }
+    ],
+    "javascriptProjects": [
+      {
+        "title": "Area Calculator",
+        "category": "Javascript",
+        "image": "https://i.ibb.co/n1ZJ735/area-calc-js.png",
+        "description": "With this tool the users can easily calculate their area. It is like an geometry application. The user can just enter their values such like the base and the height and tool will calculate it.",
+        "tags": ["HTML 5", "CSS 3", "Javascript"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/JS-Area-Calculator"
+          },
+          {
+            "live_link": "https://kazisolah114.github.io/JS-Area-Calculator/"
+          }
+        ]
+      },
+      {
+        "title": "News Portal",
+        "category": "Javascript",
+        "image": "https://i.ibb.co/YPVyqhV/news-portal-js.png",
+        "description": "This is an amazing website built with HTML, CSS and Javascript where visitors can read news from different of categories like national, international, sports, business and you name it. Users can dynamically sort the newsfeed and read their desired news.",
+        "tags": ["HTML 5", "CSS 3", "Javascript"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/news-portal-js"
+          },
+          {
+            "live_link": "https://news-portal24.netlify.app/#"
+          }
+        ]
+      },
+      {
+        "title": "Toy Bank",
+        "category": "Javascript",
+        "image": "https://i.ibb.co/C77D9CV/bank-js.png",
+        "description": "This app is amazing and fun. there is a nice dashboard and it has a few section like for deposite money, withdrawing money etc. A user can enter a number and click on the deposite button and it will show the total deposite balance. The user can simply do the same with withdrawing money. If they enter a number for withdrawing then it will decrease this amount from the total balance.",
+        "tags": ["HTML 5", "CSS 3", "Javascript"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/bap-er-bank"
+          },
+          {
+            "live_link": "https://bap-erbank.netlify.app/home"
+          }
+        ]
+      }
+      ],
+      "reactJsProjects": [
+        {
+          "title": "Dragon News 24",
+          "category": "ReactJS",
+          "image": "https://i.ibb.co/4RRPsFP/dragon-news-react.png",
+          "description": "This is an amazing dynamic website built with ReactJS where visitors can read news from different of categories like national, international, sports, business and you name it. Users can dynamically sort the newsfeed and read their desired news.",
+          "tags": ["ReactJS", "Bootstrap", "NodeJS", "ExpressJS"],
+          "links": [
+            {
+              "client_link": "https://github.com/kazisolah114/dragon-news24"
+            },
+            {
+              "live_link": "https://dragon-news24.netlify.app/"
+            }
+          ]
+        },
+        {
+          "title": "Olivia Chefs",
+          "category": "ReactJS",
+          "image": "https://i.ibb.co/5xq1ms5/olivia-chef-react.png",
+          "description": "In this website the visitors can see a group of great well known chefs. Besides the chefs the visitors will be able to see their best recipes with their ingredients. Also this website is protected by Firebase, only the registered users can log in. Anyone can create a account here. This website is fully dynamic created with ReactJS. For server side we used Node and Express.",
+          "tags": ["ReactJS", "Bootstrap", "NodeJS", "ExpressJS"],
+          "links": [
+            {
+              "client_link": "https://github.com/kazisolah114/project-chef-hunter-client"
+            },
+            {
+              "server_link": "https://github.com/kazisolah114/project-chef-hunter-server"
+            },
+            {
+              "live_link": "https://oliviasol.netlify.app/"
+            }
+          ]
+        },
+        {
+          "title": "Jobs Hub",
+          "category": "ReactJS",
+          "image": "https://i.ibb.co/yP21zx9/jobs-hub-react.png",
+          "description": "In this website the visitors can find their desired jobs they are looking from. This website showcase jobs from different of companies and the users can click on them and see their description based on their ID. In fact, the users can select a specific job and take it to the cart to buy.",
+          "tags": ["ReactJS", "Bootstrap"],
+          "links": [
+            {
+              "client_link": "https://github.com/kazisolah114/project-jobs-hub"
+            },
+            {
+              "live_link": "https://jobs-huub.netlify.app/"
+            }
+          ]
+        }
+      ],
+      "mernStackProjects": [
+        {
+          "title": "MERN 1",
+          "category": "MERN Stack",
+          "image": "project1.jpg",
+          "description": "Lorem ipsum dolor sit amet...",
+          "tags": ["tag1", "tag2", "tag3", "tag4"],
+          "links": [
+            {
+              "label": "Client",
+              "url": "https://example.com/client"
+            },
+            {
+              "label": "Server",
+              "url": "https://example.com/server"
+            },
+            {
+              "label": "Live",
+              "url": "https://example.com/live"
+            }
+          ]
+        },
+        {
+          "title": "MERN 1",
+          "category": "MERN Stack",
+          "image": "project1.jpg",
+          "description": "Lorem ipsum dolor sit amet...",
+          "tags": ["tag1", "tag2", "tag3", "tag4"],
+          "links": [
+            {
+              "label": "Client",
+              "url": "https://example.com/client"
+            },
+            {
+              "label": "Server",
+              "url": "https://example.com/server"
+            },
+            {
+              "label": "Live",
+              "url": "https://example.com/live"
+            }
+          ]
+        }
+      ]
+  }
+  

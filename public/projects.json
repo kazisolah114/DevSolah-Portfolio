@@ -1,17 +1,50 @@
 {
     "allProjects": [
       {
-        "title": "Dragon News 24",
+        "title": "JobsHubGlobal",
         "category": "ReactJS",
-        "image": "https://i.ibb.co/4RRPsFP/dragon-news-react.png",
-        "description": "This is an amazing dynamic website built with ReactJS where visitors can read news from different of categories like national, international, sports, business and you name it. Users can dynamically sort the newsfeed and read their desired news.",
-        "tags": ["ReactJS", "Bootstrap", "NodeJS", "ExpressJS"],
+        "image": "https://i.ibb.co/DDS093J/Screenshot.png",
+        "description": "JobsHubGlobal is a online job portal website where sers can create account as a job seeker or employer. Employers can post jobs and search for candidates by resumeJobseekers can find jobs and apply or bookmark the job they want.Job seekers can create resumes. It iss responsive for any devices",
+        "tags": ["ReactJS", "HTML", "CSS", "Laravel"],
         "links": [
           {
-            "client_link": "https://github.com/kazisolah114/dragon-news24"
+            "client_link": "https://github.com/kazisolah114/Company_Job_Portal"
           },
           {
-            "live_link": "https://dragon-news24.netlify.app/"
+            "live_link": "https://jobshubglobal.netlify.app/"
+          }
+        ]
+      },
+      {
+        "title": "Languagerian",
+        "category": "ReactJS",
+        "image": "https://i.ibb.co/L5Bg6Lg/lang.png",
+        "description": "Languagerian is a educational website where user can create account either as a student or a teacher. Teachers can post language learning tutorial such as English, German, Italian, Spanish, Arabi etc. Contrary, students can browse for their desired language learning course and purchase the want they want.",
+        "tags": ["ReactJS", "HTML", "CSS", "JSON"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/Languagerian"
+          },
+          {
+            "live_link": "https://languagerian.netlify.app/"
+          }
+        ]
+      },
+      {
+        "title": "Solies Quiz",
+        "category": "Javascript",
+        "image": "https://i.ibb.co/B6YB837/Quiz-Web-3.png",
+        "description": "This is a quiz website where users will be able to perform quiz and try to answer some questions about general knowledge. After each round they will get a score and see the level of their general knowledge.",
+        "tags": ["Javascript", "Bootstrap", "HTML 5", "CSS 3"],
+        "links": [
+          {
+            "client_link": ""
+          },
+          {
+            "server_link": ""
+          },
+          {
+            "live_link": "https://soliesquiz.netlify.app/"
           }
         ]
       },
@@ -30,6 +63,24 @@
           },
           {
             "live_link": "https://oliviasol.netlify.app/"
+          }
+        ]
+      },
+      {
+        "title": "Dragon News 24",
+        "category": "ReactJS",
+        "image": "https://i.ibb.co/4RRPsFP/dragon-news-react.png",
+        "description": "This is an amazing dynamic website built with ReactJS where visitors can read news from different of categories like national, international, sports, business and you name it. Users can dynamically sort the newsfeed and read their desired news.",
+        "tags": ["ReactJS", "Bootstrap", "NodeJS", "ExpressJS"],
+        "links": [
+          {
+            "client_link": "https://github.com/kazisolah114/dragon-news24"
+          },
+          {
+            "server_link": "https://github.com/kazisolah114/dragon-news24-server"
+          },
+          {
+            "live_link": "https://dragon-news24.netlify.app/"
           }
         ]
       },
@@ -218,6 +269,24 @@
     ],
     "javascriptProjects": [
       {
+        "title": "Solies Quiz",
+        "category": "Javascript",
+        "image": "https://i.ibb.co/B6YB837/Quiz-Web-3.png",
+        "description": "This is a quiz website where users will be able to perform quiz and try to answer some questions about general knowledge. After each round they will get a score and see the level of their general knowledge.",
+        "tags": ["Javascript", "Bootstrap", "HTML 5", "CSS 3"],
+        "links": [
+          {
+            "client_link": ""
+          },
+          {
+            "server_link": ""
+          },
+          {
+            "live_link": "https://soliesquiz.netlify.app/"
+          }
+        ]
+      },
+      {
         "title": "Area Calculator",
         "category": "Javascript",
         "image": "https://i.ibb.co/n1ZJ735/area-calc-js.png",
@@ -265,6 +334,36 @@
       ],
       "reactJsProjects": [
         {
+          "title": "JobsHubGlobal",
+          "category": "ReactJS",
+          "image": "https://i.ibb.co/DDS093J/Screenshot.png",
+          "description": "JobsHubGlobal is a online job portal website where sers can create account as a job seeker or employer. Employers can post jobs and search for candidates by resumeJobseekers can find jobs and apply or bookmark the job they want.Job seekers can create resumes. It iss responsive for any devices",
+          "tags": ["ReactJS", "HTML", "CSS", "Laravel"],
+          "links": [
+            {
+              "client_link": "https://github.com/kazisolah114/Company_Job_Portal"
+            },
+            {
+              "live_link": "https://jobshubglobal.netlify.app/"
+            }
+          ]
+        },
+        {
+          "title": "Languagerian",
+          "category": "ReactJS",
+          "image": "https://i.ibb.co/L5Bg6Lg/lang.png",
+          "description": "Languagerian is a educational website where user can create account either as a student or a teacher. Teachers can post language learning tutorial such as English, German, Italian, Spanish, Arabi etc. Contrary, students can browse for their desired language learning course and purchase the want they want.",
+          "tags": ["ReactJS", "HTML", "CSS", "JSON"],
+          "links": [
+            {
+              "client_link": "https://github.com/kazisolah114/Languagerian"
+            },
+            {
+              "live_link": "https://languagerian.netlify.app/"
+            }
+          ]
+        },
+        {
           "title": "Dragon News 24",
           "category": "ReactJS",
           "image": "https://i.ibb.co/4RRPsFP/dragon-news-react.png",
@@ -273,6 +372,9 @@
           "links": [
             {
               "client_link": "https://github.com/kazisolah114/dragon-news24"
+            },
+            {
+              "server_link": "https://github.com/kazisolah114/dragon-news24-server"
             },
             {
               "live_link": "https://dragon-news24.netlify.app/"

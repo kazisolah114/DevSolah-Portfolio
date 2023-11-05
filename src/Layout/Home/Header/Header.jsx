@@ -157,7 +157,7 @@ const Header = () => {
                   </a>
                 </li>
                 <span className='header-button'>
-                  <a href={resume} download="resume.pdf">
+                  <a href={resume} download="dev_resume_solayman.pdf">
                     Download Resume
                   </a>
                 </span>

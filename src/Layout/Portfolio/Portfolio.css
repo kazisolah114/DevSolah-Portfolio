@@ -51,7 +51,7 @@
     line-height: 40px;
     font-weight: bold;
     color: #fff;
-    background: #20C997;
+    background: #02cf92;
     list-style: none;
     font-size: 17px;
     border-radius: 3px;
@@ -59,9 +59,9 @@
     outline: none;
     transition: .3s;
 }
-.tabs li:hover{
+/* .tabs li:hover{
     background-color: #07b27f;
-}
+} */
 
 .tab-items {
     width: 100%;
@@ -77,6 +77,9 @@
     background: #0000001f;
     margin-bottom: 25px;
 
+}
+.tab-active{
+    background-color: #ff6600!important;
 }
 .tab-panel img {
     width: 550px;

@@ -20,10 +20,10 @@ const About = () => {
                             <ul>
                                 <li><span>Name:</span> Kazi Solayman</li>
                                 <li><span>Email:</span> kazisolayman123@gmail.com</li>
-                                <li><span>Age:</span> 19</li>
+                                <li><span>Age:</span> 20</li>
                                 <li><span>From:</span> Dhaka, Bangladesh</li>
                             </ul>
-                            <a href={resume} download="resume.pdf" className='main-button download-resume'>Download Resume</a>
+                            <a href={resume} download="Resume-Dev-Kazi.pdf" className='main-button download-resume'>Download Resume</a>
                         </div>
                     </div>
                     <div className="about-footer"></div>

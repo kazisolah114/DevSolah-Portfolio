@@ -98,23 +98,25 @@ a {
   }
 
   .banner-content {
-    padding: 10% 20px !important;
+    padding: 10% 10px !important;
   }
 
   .about-main-content {
-    padding: 0 20px;
+    padding: 0 10px;
   }
 
   .services-content .service {
     padding: 0 20px;
   }
-
+  .main-tab{
+    padding: 0 10px;
+  }
   .contact-content {
-    padding: 0 20px;
+    padding: 0 10px;
   }
 
   .footer-section {
-    padding: 50px 20px !important;
+    padding: 50px 10px !important;
   }
 }
 

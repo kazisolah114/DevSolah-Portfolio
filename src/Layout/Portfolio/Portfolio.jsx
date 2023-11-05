@@ -9,6 +9,10 @@ const Portfolio = () => {
     const [selectedTab, setSelectedTab] = useState('allProjects')
     const [showAll, setShowAll] = useState(false)
 
+    const handleTabSelect = (tab) => {
+        setSelectedTab(tab);
+      };
+    
 
     return (
         <div className='portfolio-section' id="portfolio">
@@ -18,11 +22,11 @@ const Portfolio = () => {
                 </div>
                 <Tabs className="project-tabs">
                     <TabList className="tabs">
-                        <Tab onClick={() => setSelectedTab('allProjects')}>All Projects</Tab>
-                        <Tab onClick={() => setSelectedTab('htmlCssProjects')}>HTML & CSS</Tab>
-                        <Tab onClick={() => setSelectedTab('javascriptProjects')}>JavaScript</Tab>
-                        <Tab onClick={() => setSelectedTab('reactJsProjects')}>ReactJS</Tab>
-                        <Tab onClick={() => setSelectedTab('mernStackProjects')}>MERN Stack</Tab>
+                        <Tab onClick={() => {handleTabSelect('allProjects'); setSelectedTab('allProjects')}} selectedClassName="tab-active">All Projects</Tab>
+                        <Tab onClick={() => {handleTabSelect('htmlCssProjects'); setSelectedTab('htmlCssProjects')}} selectedClassName="tab-active">HTML & CSS</Tab>
+                        <Tab onClick={() => {handleTabSelect('javascriptProjects'); setSelectedTab('javascriptProjects')}} selectedClassName="tab-active">JavaScript</Tab>
+                        <Tab onClick={() => {handleTabSelect('reactJsProjects'); setSelectedTab('reactJsProjects')}} selectedClassName="tab-active">ReactJS</Tab>
+                        <Tab onClick={() => {handleTabSelect('mernStackProjects'); setSelectedTab('mernStackProjects')}} selectedClassName="tab-active">MERN Stack</Tab>
                     </TabList>
 
                     {showAll == true ?
